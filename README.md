@@ -35,18 +35,28 @@ PROCEDURE:
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
 CIRCUIT DIAGRAMS
-
+ Half wave rectifier without filter:
+![alt text](<Screenshot 2026-05-24 190902.png>)
+WaveForm:
+![alt text](<Screenshot 2026-05-24 190930.png>)
 Half wave rectifier with filter:
-
+![alt text](<Screenshot 2026-05-24 190954.png>)
+WaveForm:
+![alt text](<Screenshot 2026-05-24 191019.png>)
+Bridge rectifier without filter:
+![alt text](<Screenshot 2026-05-24 191044.png>)
+WaveForm:
+![alt text](<Screenshot 2026-05-24 191117.png>)
 Bridge rectifier with filter:
-
+![alt text](<Screenshot 2026-05-24 191206.png>)
+WaveForm:
+![alt text](<Screenshot 2026-05-24 191226.png>)
 TABULAR COLUMN
 Rectifier without filter
+![alt text](<Screenshot 2026-05-24 191248.png>)
 TABULAR COLUMN
 Rectifier with filter
-
-WAVEFORM:
-
+![alt text](<Screenshot 2026-05-24 191306.png>)
 
 RESULT:
 
